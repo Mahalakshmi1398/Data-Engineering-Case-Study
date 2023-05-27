@@ -1,6 +1,8 @@
 Certainly! Here's an example README file for the ETL project using APIs and web scraping with PostgreSQL and Pandas:
 
-##ETL Project: APIs and Web Scraping with PostgreSQL and Pandas
+
+**ETL Project: APIs and Web Scraping with PostgreSQL and Pandas**
+
 This project aims to demonstrate an Extract, Transform, Load (ETL) process using APIs and web scraping techniques to extract data from external sources, transform it using Pandas, and load it into a PostgreSQL database. The project specifically utilizes the Utelly API, Rapid API, and Unogs API as the data sources for movies and TV shows.
 
 Prerequisites
